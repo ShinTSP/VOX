@@ -1,7 +1,25 @@
 {
   "name": "VOX",
   "symbol": "VOX",
-  "uri": "https://yourdomain.com/vox.json",
-  "seller_fee_basis_points": 0,
-  "creators": null
+  "description": "VOX là tài sản kỹ thuật số được phát triển trên Solana, hướng tới việc trở thành công cụ giao dịch trong thị trường Spot và Futures. Mục tiêu của VOX là xây dựng một hệ sinh thái minh bạch, thanh khoản cao và mang lại trải nghiệm giao dịch chuẩn quốc tế cho cộng đồng.",
+  "image": "https://raw.githubusercontent.com/ShinTSP/VOX/main/logo.png",
+  "attributes": [
+    {
+      "trait_type": "Generation",
+      "value": "GenZ"
+    },
+    {
+      "trait_type": "Blockchain",
+      "value": "Solana"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/ShinTSP/VOX/main/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "token"
+  }
 }
